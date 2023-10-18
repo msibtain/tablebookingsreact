@@ -8,3 +8,5 @@ const { createApp, ref } = Vue
       }
     }
   }).mount('#app')
+
+  console.log( api_url );
