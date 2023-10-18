@@ -1,2 +1,2 @@
-# tablebookingsreact
-Table Bookings front end in React
+# tablebookingsvue
+Table Bookings front end in Vue
